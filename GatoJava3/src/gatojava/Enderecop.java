@@ -2,7 +2,7 @@ package gatojava;
 /**
      * @author Bruna
      */
-public class Endereco {
+public class Enderecop {
         private String rua;
         private String numero;
         private String complemento;
